@@ -1,0 +1,122 @@
+.title {
+	font-size:150px ;
+	color:#black;
+	margin:12px;
+	position:relative;top:-15px; left:-140px;
+
+
+
+}
+
+.bow {
+	font-size:150px ;
+	color: #black;
+	margin:12px;
+	position:relative;top:-10px; left:-150px;
+
+}
+
+.block-one {
+	background-image: url(".https://sun9-81.userapi.com/impf/fZVVtD-Bt9jLoIb-5rV9fyQWVO1x6Tnvb_pcuA/a6HyUMEry2c.jpg?size=1590x530&quality=95&crop=362,0,1196,398&sign=5cfd1f0960be6e4177a128c2c56dd54a&type=cover_group");
+	z-index:-88;
+	color: #fff;
+
+}
+
+.df {
+	background-image: url(https://phonoteka.org/uploads/posts/2021-04/1618540347_36-phonoteka_org-p-neitralnii-belii-fon-37.jpg);
+	position:relative; left:180px;
+
+}
+
+.quew {
+	position:relative;top:-105px; left:370px;
+
+
+}
+
+.ques {
+	position:relative;top:-123px; left:570px;
+
+}
+
+.namegg {
+	font-size:22px ;
+	color:#black;
+	margin:12px;
+	position:relative;top:-555px; left:-115px;
+
+
+}
+
+
+.nameq {
+	font-size:22px ;
+	color:#black;
+	margin:12px;
+	position:relative;top:-555px; left:-114px;
+
+
+}
+
+.ert {
+	width:70px;
+	height:70px;
+	position:relative;left:-5px;
+
+
+}
+
+.zov {
+	font-size:15px ;
+	color: #black;
+	margin:12px;
+	position:relative;top:-59px; left:5px;
+
+}
+
+.fast {
+
+	font-size:20px ;
+	color: #black;
+	position:relative;top:-15px; left:-115px;
+
+}
+
+.cas {
+
+	font-size:20px ;
+	color: #black;
+	position:relative;top:-60px; left:70px;
+
+}
+
+.box {
+
+ animation-name:movingBox ;
+ animation-duration: 2300ms;
+ animation-iteration-count: infinite;
+ animation-duration: alternate;
+
+}
+
+@keyframes movingBox {
+	0%{
+		transform: translate(0,0);
+		opacity: 0,4;
+
+	}
+	25%{}
+	50%{}
+	100%{}
+}
+
+.fotoone {
+	width:70px;
+	height:40px;
+	position:relative;top: 603px; relative;left:-77px;
+
+
+
+
+
